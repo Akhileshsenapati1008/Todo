@@ -1,0 +1,29 @@
+.appContainer
+{
+    margin-left:30vw;
+    margin-top:20vh;
+    height:50vh;
+    width:50vw;
+    background-color: aqua;
+    text-align: center;
+    padding-top: 10vh;
+}
+.roundedButtonStyling
+{
+    margin-left: 1vw;
+    border-radius: 1vh;
+    border-color: orange;
+    background-color: orange;
+}
+.doneStatusTrue
+{
+    border-radius: 1vh;
+    border-color: greenyellow;
+    background-color: greenyellow;
+}
+.doneStatusFalse
+{
+    border-radius: 1vh;
+    border-color: yellow;
+    background-color: yellow;
+}
